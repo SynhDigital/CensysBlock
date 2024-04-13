@@ -16,10 +16,3 @@ Ce dépôt contient deux scripts pour bloquer des plages d'adresses IP spécifiq
 ### Pour le script PowerShell
 - Windows 8/10/11 avec les droits administratifs.
 - PowerShell 5.0 ou une version ultérieure.
-
-## Installation
-
-### Python script
-
-1. Téléchargez `ban_ip.py` sur votre système Linux.
-2. Assurez-vous que le script est exécutable :
