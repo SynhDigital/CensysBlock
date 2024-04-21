@@ -5,6 +5,7 @@ Ce dépôt contient deux scripts pour bloquer des plages d'adresses IP spécifiq
 ## Contenu
 
 - `block.py` - Script Python pour bloquer des plages d'IP sur Linux.
+- `routes.py` - Script Python pour bloquer des plages d'IP sur Linux avec ip route.
 - `block.ps1` - Script PowerShell pour bloquer des plages d'IP sur Windows.
 
 ## Prérequis
